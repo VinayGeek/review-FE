@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import { Card } from "antd";
 import RadioOpt from "./RadioOpt";
 
-//
+///////////////////////////////////////////////
 
 let arr = ["Hangzhou", "Shanghai", "Beijing", "Chengdu"];
 
-//
+///////////////////////////////////////////////
 
 const Box = () => {
   return (
